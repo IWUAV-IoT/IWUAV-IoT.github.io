@@ -134,8 +134,8 @@ TBD
 ## Program
 {: style="color:#32a852"}
 TBD
-<!--
-10:30-10:35: Workshop opening
+
+<!--10:30-10:35: Workshop opening
 
 
 ### Session: 1  [Chair: Evgenii Vinogradov]
@@ -211,8 +211,8 @@ Pocket-sized Drones*", Luca Crupi, Luca Butera, Alberto Ferrante and Daniele Pal
 Ecosystems*" , Ravi Mukkamala, Stephan Olariu, Meshari Aljohani, Mohan Sunkara and Hind
 Aldabagh,
 
-17:10-17:15:  Closing Remarks
--->
+17:10-17:15:  Closing Remarks-->
+
 
 ## Past editions
 {: style="color:#32a852"}
