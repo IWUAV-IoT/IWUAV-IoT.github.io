@@ -40,6 +40,7 @@ This workshop will consider the research works that combine the design of algori
 
 ## Topics of Interest
 {: style="color:#32a852"}
+The workshop will focus on the following (but not limited to) topics: 
 
 - UAV-Enabled Sensor Networks 
 
