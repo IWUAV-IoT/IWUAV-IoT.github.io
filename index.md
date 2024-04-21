@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unmanned Autonomous Vehicles and IoT
+title: Unmanned Aerial Vehicles and IoT
 subtitle: UAV-IoT 2024
 cover-img: "assets/img/banner.png"
 ---
@@ -11,7 +11,7 @@ cover-img: "assets/img/banner.png"
 _International Workshop on_
 {: style="text-align: center"}
 
-_Unmanned Autonomous Vehicles and IoT (UAV-IoT) 2024_
+_Unmanned Aerial Vehicles and IoT (UAV-IoT) 2024_
 {: style="text-align: center"}
 
 <!-- Padova, Italy -->
