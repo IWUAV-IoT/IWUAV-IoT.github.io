@@ -24,6 +24,7 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2024_
 {: style="text-align: center"}
 
 **Submission link: [click here](https://edas.info/newPaper.php?c=32419)**
+{: style="text-align: center"}
 
 **Submission link: TBD**
 {: style="text-align: center"}
