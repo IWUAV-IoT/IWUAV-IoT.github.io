@@ -8,7 +8,7 @@ cover-img: "assets/img/banner.png"
 
 
 
-_International Workshop on_
+_2nd International Workshop on_
 {: style="text-align: center"}
 
 _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2024_
@@ -17,15 +17,14 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2024_
 <!-- Padova, Italy -->
 {: style="text-align: center"}
 
-**September 23 - 25, 2024**
+**September 25, 2024**
 {: style="text-align: center"}
 
 **co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
 {: style="text-align: center"}
 
-<!--
-**Submission link: [click here](TBD)**
--->
+**Submission link: [click here](https://edas.info/newPaper.php?c=32419)**
+
 **Submission link: TBD**
 {: style="text-align: center"}
 
