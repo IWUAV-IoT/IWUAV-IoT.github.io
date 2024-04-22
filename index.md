@@ -101,7 +101,6 @@ be published in the workshop proceedings.
 {: style="color:#32a852"}
 TBD
 
-
 ### Publicity Chair
 {: style="color:#32a852"}
 - **Avirup Das**: Singapore University of Technology and Design (SUTD), Singapore
@@ -110,10 +109,12 @@ TBD
 {: style="color:#32a852"}
 - **Salah Eddine Merzougui**: University of Padova, Italy
 - **Mirko Franco**: University of Padova, Italy
-  
+
+<!--
 ## Program
 {: style="color:#32a852"}
 TBD
+-->
 
 ## Past editions
 {: style="color:#32a852"}
