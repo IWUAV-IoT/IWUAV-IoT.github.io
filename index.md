@@ -23,7 +23,10 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2024_
 **co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
 {: style="text-align: center"}
 
+<!-->
 **Submission link: [click here](TBD)**
+-->
+**Submission link: TBD**
 {: style="text-align: center"}
 
 
