@@ -95,11 +95,16 @@ be published in the workshop proceedings.
 ### Steering Committee
 {: style="color:#32a852"}
 - **Pinotti Maria Cristina**: University of Perugia, Italy
-- **Sajal K. Das**: Missouri University of Science and Technology, U.S.
+- **Sajal K. Das**: Missouri University of Science and Technology, USA
+- **Ljiljana Trajkovic**: Simon Fraser University, Canada
   
 ### Program Committee
 {: style="color:#32a852"}
-TBD
+- **Francesco Betti Sorbelli**: University of Perugia, Italy
+- **Subhasis Bhattacharjee**: IIT Jammu, India
+- **Lorenzo Palazzetti**: University of Florence, Italy
+- **Simone Silvestri**: University of Kentucky, USA
+- **Koushik Sinha**: University Carbondale, USA
 
 ### Publicity Chair
 {: style="color:#32a852"}
