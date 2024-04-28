@@ -105,6 +105,7 @@ be published in the workshop proceedings.
 - **Lorenzo Palazzetti**: University of Florence, Italy
 - **Simone Silvestri**: University of Kentucky, USA
 - **Koushik Sinha**: University Carbondale, USA
+- **Eirini Tsiropoulou**: University of New Mexico, USA
 
 ### Publicity Chair
 {: style="color:#32a852"}
