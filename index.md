@@ -102,6 +102,7 @@ be published in the workshop proceedings.
 {: style="color:#32a852"}
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Subhasis Bhattacharjee**: IIT Jammu, India
+- **Sajjad Ghobadi**: University of Perugia, Italy
 - **Lorenzo Palazzetti**: University of Florence, Italy
 - **Simone Silvestri**: University of Kentucky, USA
 - **Koushik Sinha**: University Carbondale, USA
