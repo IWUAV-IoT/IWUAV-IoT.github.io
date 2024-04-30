@@ -104,6 +104,7 @@ be published in the workshop proceedings.
 - **Subhasis Bhattacharjee**: IIT Jammu, India
 - **Sajjad Ghobadi**: University of Perugia, Italy
 - **Lorenzo Palazzetti**: University of Florence, Italy
+- **Nirmalya Roy**: University of Maryland, USA
 - **Simone Silvestri**: University of Kentucky, USA
 - **Koushik Sinha**: University Carbondale, USA
 - **Eirini Tsiropoulou**: University of New Mexico, USA
