@@ -102,7 +102,9 @@ be published in the workshop proceedings.
 {: style="color:#32a852"}
 - **Francesco Betti Sorbelli**: University of Perugia, Italy
 - **Subhasis Bhattacharjee**: IIT Jammu, India
+- **Sandip Chakraborty**: Indian Institute of Technology Kharagpur, India
 - **Sajjad Ghobadi**: University of Perugia, Italy
+- **Michela Meo**: Politecnico di Torino, Italy
 - **Lorenzo Palazzetti**: University of Florence, Italy
 - **Nirmalya Roy**: University of Maryland, USA
 - **Simone Silvestri**: University of Kentucky, USA
