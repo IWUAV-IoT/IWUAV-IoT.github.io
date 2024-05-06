@@ -20,7 +20,7 @@ _Unmanned Aerial Vehicles and IoT (UAV-IoT) 2024_
 **September 25, 2024**
 {: style="text-align: center"}
 
-**co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
+**Co-located with [MASS 2024](https://sites.google.com/view/ieee-mass-2024)**
 {: style="text-align: center"}
 
 **Submission link: [click here](https://edas.info/newPaper.php?c=32419)**
@@ -61,7 +61,7 @@ to) topics:
   
 - Battery and energy management in UAV-based networks
 
-## Important dates
+## Important Dates
 {: style="color:#32a852"}
 
 - **Paper Submission**: Friday, June 21, 2024 (11:59pm AoE) 
@@ -72,7 +72,7 @@ to) topics:
 
 * * *
 
-## Author information
+## Author Information
 {: style="color:#32a852"}
 
 Prospective authors are invited to submit original and unpublished research papers that
@@ -83,12 +83,12 @@ be published in the workshop proceedings.
 
 {: style="text-align: justify"}
 
-## Special issue
+## Special Issue
 {: style="color:#32a852"}
 
 A few selected papers of UAV-IoT 2024 will be invited to submit their extended workshop paper version to the ACM Journal on Autonomous Transportation Systems special issue on "Applications-Driven UAV Routing and Scheduling Algorithms for Autonomous Transportation Systems". 
 
-Details about the SI can be found [here](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM_JATS_SI_AD-UAV-RSAATS-1712690492453.pdf).
+Details about the SI can be found **[here](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM_JATS_SI_AD-UAV-RSAATS-1712690492453.pdf)**.
 {: style="text-align: justify"}
 
 ## Committees
@@ -134,6 +134,6 @@ Details about the SI can be found [here](https://dl.acm.org/pb-assets/static_jou
 TBD
 -->
 
-## Past editions
+## Past Editions
 {: style="color:#32a852"}
 - [UAV-IoT 2023](https://sites.google.com/view/ieee-mass-uav-iot-2023/home)
