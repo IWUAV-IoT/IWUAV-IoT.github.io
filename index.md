@@ -87,7 +87,7 @@ be published in the workshop proceedings.
 {: style="color:#32a852"}
 
 A few selected papers of UAV-IoT 2024 will be invited to submit their extended workshop paper version to the ACM Journal on Autonomous Transportation Systems special issue on "Applications-Driven UAV Routing and Scheduling Algorithms for Autonomous Transportation Systems". 
-Details about the SI can be found [here](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM_JATS_SI_AD-UAV-RSAATS-1712690492453)
+Details about the SI can be found [here](https://dl.acm.org/pb-assets/static_journal_pages/jats/pdf/ACM_JATS_SI_AD-UAV-RSAATS-1712690492453.pdf)
 {: style="text-align: justify"}
 
 ## Committees
