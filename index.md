@@ -128,11 +128,10 @@ Details about the SI can be found **[here](https://dl.acm.org/pb-assets/static_j
 - **Salah Eddine Merzougui**: University of Padova, Italy
 - **Mirko Franco**: University of Padova, Italy
 
-<!--
-## Program
-{: style="color:#32a852"}
-TBD
--->
+## Accepted Papers
+- Wei-Teng Chu (National Taiwan University, Taiwan); Yu-Po Cho (National Tsing Hua University, Taiwan). Laser-Assisted Guidance Landing Technology for Drones.
+- Raffaele Elia (University of Campania Luigi Vanvitelli, Italy & CIRA, Italy); Massimiliano Rak (University of Campania Luigi Vanvitelli, Italy); Domenico Pascarella (CIRA scpa, Italy). A First Step Towards an Automated Methodology for the Security Risk Assessment of U-Space Solutions.
+- Maksym Lishchynskyi, Irene Cheng and Ioanis Nikolaidis (University of Alberta, Canada). Trajectory Agnostic Livestock Counting Through UAV Imaging.
 
 ## Past Editions
 {: style="color:#32a852"}
