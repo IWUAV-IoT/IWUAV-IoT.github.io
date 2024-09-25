@@ -137,7 +137,7 @@ Details about the SI can be found **[here](https://dl.acm.org/pb-assets/static_j
 ## Program
 {: style="color:#32a852"}
 UAV-IoT workshop will be held in conjunction with the EIVN workshop (with a link to EIVN). 
-For detailed information about the program schedule, please see: [https://ieeemass2024.github.io/ieee-mass-EIVN-2024/program.html]https://ieeemass2024.github.io/ieee-mass-EIVN-2024/program.html 
+For detailed information about the program schedule, please see: [https://ieeemass2024.github.io/ieee-mass-EIVN-2024/program.html] (https://ieeemass2024.github.io/ieee-mass-EIVN-2024/program.html)
 
 ## Past Editions
 {: style="color:#32a852"}
